@@ -3,7 +3,7 @@ Kickstarter Data Analysis for Project Funding
 
 ### Module 1 Excel Challenge Analysis
 
-From the visualizations created from the Kickstarter data, there are several conclusions that we can come to. 
+From the visualizations created from the Kickstarter data, there are several conclusions that we can come to: 
 
 ![Outcomes_Based_on_Goals](Outcomes_Based_on_Goals.png)
 
