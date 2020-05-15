@@ -5,7 +5,7 @@ Kickstarter Data Analysis for Project Funding
 
 From the visualizations created from the Kickstarter data, there are several conclusions that we can come to. 
 
-
+![Outcomes Based on Goals](/Users/SamWise/Data Analytics/Course Projects/Module 1 - Excel/Outcomes Based on Goals.png)
 
 1) Plays that have lower fundraising goals are far more successful than others: Kickstarter Plays have the highest chance of reaching their funding goal when the goal is less than $1,000 (75.8% success rate). Funding goals of $1,000 to $4,999 (72.7% success rate) and $35,000 to $44,999 (66.7% success rate) also have a higher success rate when compared to the other goal thresholds. From the Outcomes based on Goals chart, we can conclude that plays have the highest chance of reaching their fundraising goal if the goal amount is low (less than $1,000).
 
