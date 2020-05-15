@@ -5,7 +5,7 @@ Kickstarter Data Analysis for Project Funding
 
 From the visualizations created from the Kickstarter data, there are several conclusions that we can come to. 
 
-![Outcomes Based on Goals](Waking-Dreamer/kickstarter-analysis/Module 1 Challenge.xlsx/Outcomes Based on Goals.png)
+![Outcomes Based on Goals](Module 1 Challenge.xlsx/Outcomes Based on Goals.png)
 
 1) Plays that have lower fundraising goals are far more successful than others: Kickstarter Plays have the highest chance of reaching their funding goal when the goal is less than $1,000 (75.8% success rate). Funding goals of $1,000 to $4,999 (72.7% success rate) and $35,000 to $44,999 (66.7% success rate) also have a higher success rate when compared to the other goal thresholds. From the Outcomes based on Goals chart, we can conclude that plays have the highest chance of reaching their fundraising goal if the goal amount is low (less than $1,000).
 
@@ -15,7 +15,7 @@ Limitation of Dataset:
 
 The Data used for the Outcomes Based on Goals visualization is small. In general, we see an inverse correlation with Fundraising Goal and Success rate. The higher the Goal threshold, the lower the success rate, but we see the success rate triple for the $35,000 to $39,999 and $40,000 to $44,999 goal categories because there is such a small sample size for these categories. For example, the Less than $1,000 goal category has a total of 186 projects. For the $40,000 to $44,999 goal category, there is only 3. Because there are so few data points for the $35,000 to $39,999 and $40,000 to $44,999 goal categories, their success rate appears to be a lot higher than it probably would be if we were working with a larger data set. With a much larger data set, I hypothesize that the Outcomes Based on Goals chart would show an even greater inverse correlation and we would not see the massive spike in success rate for the $35,000 to $39,999 and $40,000 to $44,999 goal categories.
 
-![Outcome Based on Launch Date](kickstarter-analysis/Module 1 Challenge.xlsx/Outcome Based on Launch Date.png)
+![Outcome Based on Launch Date](Outcome Based on Launch Date.png)
 
 3) Theater Kickstarter projects that are launched in the summer months are far more successful. The most successful month to launch a Kickstarter Theater Project is May, followed by June and July. From the Outcomes based on Launch Date chart, we can conclude that Theater Kickstarter projects have the highest chance of success when launched in the summer months and a lesser chance of success in the winter months.
 
